@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "6E3A2DFC1563C2ED3D26CD2B48FD841F1EC17960",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "0CEE1A6338785495E42044E1D9C5917B3CB34FDF" : 0,
+    "6E3A2DFC1563C2ED3D26CD2B48FD841F1EC17960" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "67775299-9891-4804-8D40-A0B48CAFB795",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "0CEE1A6338785495E42044E1D9C5917B3CB34FDF" : "..",
+    "6E3A2DFC1563C2ED3D26CD2B48FD841F1EC17960" : "apprtc-update\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "AppRTC",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "AppRTC.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/MobDevGroup\/iOSResources.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "0CEE1A6338785495E42044E1D9C5917B3CB34FDF"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/frankzhuo\/apprtc-update.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "6E3A2DFC1563C2ED3D26CD2B48FD841F1EC17960"
+    }
+  ]
+}
